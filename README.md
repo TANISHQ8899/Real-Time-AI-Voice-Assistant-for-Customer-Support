@@ -1,0 +1,2 @@
+# Real-Time-AI-Voice-Assistant-for-Customer-Support
+This project involves the development of a real-time AI voice assistant designed to enhance customer support services. The assistant can handle incoming calls, transcribe speech, generate intelligent responses, and provide a human-like conversational experience. It's ideal for call centers, customer support, and virtual receptionist applications.
